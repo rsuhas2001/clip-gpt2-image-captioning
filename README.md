@@ -18,8 +18,5 @@ pip install -r requirements.txt
 python train.py
 python evaluate.py
 
-## Team
-Completed with teammates Aditya, Harsh, and Raga.
-
 ## Author
 Suhas Ramachandra — MS in Data Analytics Engineering, Northeastern University
